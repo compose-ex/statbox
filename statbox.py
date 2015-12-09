@@ -1,4 +1,4 @@
-# (C) Compose.io 2015
+# (C) 2015 Compose, an IBM company
 # MIT Licensed
 
 import pymongo
